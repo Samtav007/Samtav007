@@ -1,5 +1,55 @@
 # 💫 About Me:
-Hi, I'm Samarth Sehgal — a passionate full-stack developer, designer, and tech entrepreneur with a curious mind for innovation. I thrive on building products that solve real-world problems and love turning ideas into impactful, scalable solutions. 🚀<br><br>🔭 I’m currently working on<br>NeuroLinkED – an AI-powered Brain-to-App Learning Assistant aimed at transforming the way we learn.<br>Cosmic – a creative platform that blends space exploration with interactive content and community engagement.<br>Resume ai<br>🤝 I’m looking to collaborate on<br>AI/ML-driven tech products<br>MERN stack projects<br>Open-source tools that improve learning or productivity<br>🧠 I’m currently learning<br>Advanced backend systems (Node.js, microservices)<br>Scalable architecture design and DevOps practices<br>Deep learning and prompt engineering<br>🙋‍♂️ Ask me about<br>Full-stack development (React, Node.js, MongoDB)<br>UI/UX and product design<br>Building MVPs for startup ideas<br>Technical storytelling and design thinking<br>🎉 Fun Facts<br>I can visualize almost any concept like a movie — helps me understand deeply!<br>I enjoy mixing nature and tech for creative inspiration 🌿💻<br>My go-to way to learn? Real-world analogies and visual exploration.<br>I’ve hosted events, built projects, led teams — and always hungry for more!
+## 👋 Hey there! I'm **Samarth Sehgal**
+
+I'm a passionate **Full-Stack Developer**, **UI/UX Designer**, and **Tech Innovator** with a curious mind for building impactful digital experiences. I thrive on solving real-world problems and turning bold ideas into scalable products. 🚀
+
+---
+
+### 🔭 Current Projects
+
+- 🧠 **NeuroLinkED** – An AI-powered Brain-to-App Learning Assistant transforming how we learn.  
+- 🌌 **Cosmic** – A creative platform exploring space through interactive content and community.  
+- 🏠 **Techie Home** – A digital hub for tech enthusiasts to explore, learn, and grow together.  
+- 🤖 **Resume AI** – Smart tool to level up your resume using NLP and AI techniques.
+
+---
+
+### 🤝 I’m open to collaborating on
+
+- 🔬 AI/ML-driven tech products  
+- 🌐 MERN Stack applications  
+- 🛠️ Open-source tools for learning, productivity, or community impact
+
+---
+
+### 🧠 Currently Learning
+
+- 📦 Advanced Backend Architectures (Node.js, Microservices)  
+- 🛡️ Scalable System Design & DevOps  
+- 🧬 Deep Learning & Prompt Engineering
+
+---
+
+### 🙋‍♂️ Ask Me About
+
+- 💻 Full-Stack Web Development (React, Node.js, MongoDB)  
+- 🎨 UI/UX and Design Systems  
+- 🚀 MVP building and rapid prototyping for startups  
+- ✍️ Technical storytelling and pitching product ideas
+
+---
+
+### 🎉 Fun Facts
+
+- 🎥 I visualize concepts like movies in my mind — it makes learning and explaining things easy and fun!
+- 🌱 I love blending **nature** and **tech** for creative inspiration.
+- 📚 Real-world analogies and visual memory hacks are my favorite ways to learn.
+- 🎤 I’ve hosted events, led teams, built projects — and I’m always hungry for more!
+
+---
+
+_⚡ Let's connect, collaborate, and create something extraordinary!_
+
 
 
 ## 🌐 Socials:
